@@ -27,7 +27,7 @@
     ]
   },
   "dependencies": {
-    "algoliasearch": "^3.35.1",
+    "algoliasearch": "^4.0.0",
     "atomic-algolia": "^0.3.19",
     "axios": "^0.21.1",
     "babel-eslint": "^6.1.2",
