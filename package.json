@@ -29,7 +29,7 @@
   "dependencies": {
     "algoliasearch": "^3.35.1",
     "atomic-algolia": "^0.3.19",
-    "axios": "^0.21.1",
+    "axios": "^1.6.3",
     "babel-eslint": "^6.1.2",
     "babel-loader": "^7.1.5",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
@@ -38,7 +38,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^3.0.0",
     "chalk": "^4.1.0",
     "clipboard": "^2.0.7",
     "compression": "^1.7.4",
