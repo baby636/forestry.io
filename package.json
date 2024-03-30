@@ -50,7 +50,7 @@
     "dotenv": "^5.0.1",
     "eqcss": "^1.9.2",
     "exports-loader": "^0.6.3",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-debounce": "^1.0.2",
     "gulp-imagemin": "^7.1.0",
     "gulp-newer": "^1.4.0",
