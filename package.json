@@ -85,11 +85,11 @@
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
-    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-env": "^7.27.1",
     "browserslist": "^4.12.0",
     "caniuse-lite": "^1.0.30001197",
     "eslint": "^4.19.1",
-    "eslint-plugin-compat": "^2.7.0",
+    "eslint-plugin-compat": "^3.6.0",
     "eslint-plugin-import": "^2.21.2",
     "gulp-babel": "^7.0.1",
     "husky": "^4.2.5",
